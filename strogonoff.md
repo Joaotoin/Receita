@@ -1,11 +1,10 @@
 # Strogonoff de Frango :chicken:
 
-
-
 ### Ingredientes
 
 - Frango
 - Óleo
+- Disposição
 
 
 
@@ -13,3 +12,4 @@
 
 1. Faça isso
 2. Faça aquilo
+3. Faça novamente
